@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Bug Fixes
+
+-   `ComplementaryArea`: Remove incorrect `aria-expanded` attribute from the "Pin to toolbar" toggle button, which already exposes its state via `aria-pressed`.
+
 ## 9.35.0 (2026-07-01)
 
 ## 9.34.0 (2026-06-24)
